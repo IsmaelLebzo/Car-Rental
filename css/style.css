@@ -1,0 +1,17 @@
+div.top{
+
+    width: 100%;
+}
+img{
+    width: 150px;
+    height: 150px;
+}
+main{
+    /* background-image: url(https://i.ibb.co/TvjC7Wq/background.jpg); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+}
+table th{
+    border: 2px solid black;
+}
